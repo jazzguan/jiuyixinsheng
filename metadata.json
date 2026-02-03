@@ -1,0 +1,8 @@
+
+{
+  "name": "衣生RevBox - AI旧衣新生平台",
+  "description": "AI驱动的旧衣新生循环平台，提供精准改造与盲盒惊喜服务，连接可持续时尚与情感故事。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
